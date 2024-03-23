@@ -1,0 +1,4 @@
+## Create react native app using utility image mynpm
+```
+amynpx react-native@latest init AwesomeProject
+```
